@@ -1,4 +1,4 @@
-</br></br></br></br></br></br>
+</br></br>
 
 ![Sobre mim](https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/777f630f-9e14-4f30-b9aa-c89a22082010)
 
@@ -6,15 +6,15 @@ Permitam-me apresentar-me: sou João Marcos Jensen Francisco, um apaixonado prog
   
 Desde os meus 14 anos, quando dei os primeiros passos no mundo da programação, minha dedicação e determinação me impulsionaram a aprender de forma autodidata. Hoje, posso afirmar com confiança que a busca constante por conhecimento e a curiosidade em explorar novas tecnologias são características fundamentais na minha jornada profissional.
 
-  </br></br></br></br></br></br></br></br>
+  </br></br>
   ---
-  </br></br></br></br></br></br>
+  </br></br>
 
 ![Experiência](https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/78682179-4b77-4cf0-959d-9332a7c7d407)
 
 Durante minha trajetória, tive a oportunidade de explorar diversas linguagens de programação. Essa diversidade linguística permitiu-me obter uma visão ampla e adaptável, o que é essencial para solucionar os problemas de forma criativa e eficiente.
 
-  </br></br>
+  </br>
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -27,25 +27,25 @@ Durante minha trajetória, tive a oportunidade de explorar diversas linguagens d
       <img  alt="TypeScript" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   </a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img  alt="Dart" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+    <img  alt="Dart" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
   </a>
   <a href="https://dev.java/" target="_blank" rel="noreferrer">
-    <img  alt="Java" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img  alt="Java" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img  alt="Kotlin" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+    <img  alt="Kotlin" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
   </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img  alt="Go" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+    <img  alt="Go" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
   </a>
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img  alt="Lua" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"/>
+    <img  alt="Lua" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"/>
   </a>
 </div>
   
-  </br></br></br></br></br></br></br></br>
+  </br></br>
   ---
-  </br></br></br></br></br></br>
+  </br></br>
 
 ![Automação](https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/de809cea-2460-4f61-a49b-9a237d191539)
 
@@ -53,17 +53,17 @@ Um marco significativo em minha carreira como desenvolvedor foi quando atuei com
 
 O projeto em questão envolveu a transformação de uma extensa planilha do Excel, repleta de números de WhatsApp, em vCards separados para cada operador da equipe de telemarketing. Essa automatização simplificou e agilizou o processo, permitindo que a equipe dedicasse mais tempo a outras tarefas estratégicas. Foi gratificante presenciar o impacto positivo que a tecnologia pode ter na otimização e eficiência operacional.
 
-  </br></br></br></br></br></br></br></br>
+  </br></br>
   ---
-  </br></br></br></br></br></br>
+  </br></br>
 
 ![Especialização](https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/b388755d-5ea9-4ef2-8a85-64bc5d96f76e)
 
 Apesar de minha experiência abrangente em diversas linguagens, foi com o Next.js que encontrei minha verdadeira paixão. A combinação da potência do React.js com a velocidade e simplicidade oferecidas pelo Next.js possibilita a criação de aplicações web modernas e escaláveis. Com habilidades sólidas nesse framework, estou pronto para ajudar a transformar suas ideias em realidade.
 
-  </br></br></br></br></br></br></br></br>
+  </br></br>
   ---
-  </br></br></br></br></br></br>
+  </br></br>
 
 
 ![Contato](https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/ecfa223b-4f57-47c1-81e0-a73df7b1dfc1)
@@ -78,7 +78,7 @@ Entre em contato comigo para discutir suas ideias, requisitos e objetivos. Estou
 
 Atenciosamente, João Marcos Jensen Francisco
 
-  </br></br></br></br></br></br></br></br>
+  </br></br>
   ---
 
 <div align="center">
