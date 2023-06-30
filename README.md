@@ -1,6 +1,6 @@
 </br></br>
 
-![Sobre mim](https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/777f630f-9e14-4f30-b9aa-c89a22082010)
+![Inserir um título-PhotoRoom png-PhotoRoom](https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/ffcdb158-2b98-4fca-8e9f-13b1a85f7be6)
 
 Permitam-me apresentar-me: sou João Marcos Jensen Francisco, um apaixonado programador que encontra na tecnologia sua maior fonte de inspiração e desafios. Com apenas 18 anos de idade, tenho o privilégio de já contar com uma vasta experiência no desenvolvimento web, com especialização no framework Next.js.
   
