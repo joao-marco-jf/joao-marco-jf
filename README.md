@@ -6,8 +6,11 @@ Permitam-me apresentar-me: sou João Marcos Jensen Francisco, um apaixonado prog
   
 Desde os meus 14 anos, quando dei os primeiros passos no mundo da programação, minha dedicação e determinação me impulsionaram a aprender de forma autodidata. Hoje, posso afirmar com confiança que a busca constante por conhecimento e a curiosidade em explorar novas tecnologias são características fundamentais na minha jornada profissional.
 
-  </br></br>
+  </br>
+  </br>
+  
   ---
+  
   </br></br>
 
 ### Experiência
@@ -16,8 +19,11 @@ Durante minha trajetória, tive a oportunidade de explorar diversas linguagens d
 
   </br>
   
-  </br></br>
+  </br>
+  </br>
+  
   ---
+  
   </br></br>
 
 ### Automação
@@ -26,8 +32,11 @@ Um marco significativo em minha carreira como desenvolvedor foi quando atuei com
 
 O projeto em questão envolveu a transformação de uma extensa planilha do Excel, repleta de números de WhatsApp, em vCards separados para cada operador da equipe de telemarketing. Essa automatização simplificou e agilizou o processo, permitindo que a equipe dedicasse mais tempo a outras tarefas estratégicas. Foi gratificante presenciar o impacto positivo que a tecnologia pode ter na otimização e eficiência operacional.
 
-  </br></br>
+  </br>
+  </br>
+  
   ---
+  
   </br></br>
 
 ### Especialização
