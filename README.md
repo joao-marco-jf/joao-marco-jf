@@ -5,24 +5,12 @@
 Permitam-me apresentar-me: sou João Marcos Jensen Francisco, um apaixonado programador que encontra na tecnologia sua maior fonte de inspiração e desafios. Com apenas 18 anos de idade, tenho o privilégio de já contar com uma vasta experiência no desenvolvimento web, com especialização no framework Next.js.
   
 Desde os meus 14 anos, quando dei os primeiros passos no mundo da programação, minha dedicação e determinação me impulsionaram a aprender de forma autodidata. Hoje, posso afirmar com confiança que a busca constante por conhecimento e a curiosidade em explorar novas tecnologias são características fundamentais na minha jornada profissional.
-
-  </br>
-  </br>
-  
-  ---
   
   </br></br>
 
 # Experiência
 
 Durante minha trajetória, tive a oportunidade de explorar diversas linguagens de programação. Essa diversidade linguística permitiu-me obter uma visão ampla e adaptável, o que é essencial para solucionar os problemas de forma criativa e eficiente.
-
-  </br>
-  
-  </br>
-  </br>
-  
-  ---
   
   </br></br>
 
@@ -31,11 +19,6 @@ Durante minha trajetória, tive a oportunidade de explorar diversas linguagens d
 Um marco significativo em minha carreira como desenvolvedor foi quando atuei como estagiário em uma empresa renomada. Lá, tive a oportunidade de desenvolver um projeto de automatização utilizando Python, que revolucionou a forma de trabalho da equipe de inteligência da empresa.
 
 O projeto em questão envolveu a transformação de uma extensa planilha do Excel, repleta de números de WhatsApp, em vCards separados para cada operador da equipe de telemarketing. Essa automatização simplificou e agilizou o processo, permitindo que a equipe dedicasse mais tempo a outras tarefas estratégicas. Foi gratificante presenciar o impacto positivo que a tecnologia pode ter na otimização e eficiência operacional.
-
-  </br>
-  </br>
-  
-  ---
   
   </br></br>
 
