@@ -1,6 +1,6 @@
 # 👋 Sobre Mim
 
-### Olá! Eu sou João Marcos Jensen Francisco, um apaixonado programador de 18 anos que encontra na tecnologia sua maior fonte de inspiração e desafios. Desde os meus 14 anos, tenho trilhado minha jornada autodidata no mundo da programação, dedicando-me à busca constante por conhecimento e explorando diversas tecnologias. A especialização em Next.js é o ponto culminante dessa jornada, proporcionando-me habilidades sólidas para transformar ideias em realidade.
+### Olá! Eu sou João Marcos Jensen Francisco, um apaixonado programador que encontra na tecnologia sua maior fonte de inspiração e desafios. Desde os meus 14 anos, tenho trilhado minha jornada autodidata no mundo da programação, dedicando-me à busca constante por conhecimento e explorando diversas tecnologias. A especialização em Next.js é o ponto culminante dessa jornada, proporcionando-me habilidades sólidas para transformar ideias em realidade.
 <br></br>
 # 💼 Experiência
 
