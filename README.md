@@ -1,80 +1,185 @@
-<table>
-  <tr>
-    <td width="40%">
-      <img width="1920" alt="Slide 16_9 - 1" src="https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/60c5ceb8-4565-472f-93d6-86db58cc3cba">
-    </td>
-    <td>
-    Olá! Eu sou João Marcos Jensen Francisco, um apaixonado programador que encontra na tecnologia sua maior fonte de inspiração e desafios. Desde os meus 14 anos, tenho trilhado minha jornada autodidata no mundo da programação, dedicando-me à busca constante por conhecimento e explorando diversas tecnologias. A especialização em Next.js é o ponto culminante dessa jornada, proporcionando-me habilidades sólidas para transformar ideias em realidade.
-    </td>
-  </tr>
-</table>
+#### English
+---
 
 <table>
   <tr>
     <td>
-    Durante minha trajetória, explorei diversas linguagens de programação, desenvolvendo uma visão ampla e adaptável essencial para solucionar problemas de forma criativa e eficiente.
-    </td>
-    <td width="40%">
-      <img width="1920" alt="Slide 16_9 - 2" src="https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/7f093c0d-4db6-42d8-86d2-3edee8455b53">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="40%">
-      <img width="1920" alt="Slide 16_9 - 3" src="https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/7169962c-27b1-440d-aa22-4ec3f4e3889b">
-    </td>
-    <td>
-    Destaco um marco significativo em minha carreira: atuei como estagiário em uma empresa renomada, onde liderei um projeto de automação utilizando Python. Transformei uma extensa planilha do Excel em vCards separados para cada operador da equipe de telemarketing. Essa automação revolucionou a forma de trabalho da equipe de inteligência, simplificando e agilizando processos operacionais.
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-    Apesar da experiência em diversas linguagens, encontrei minha verdadeira paixão no Next.js. A combinação do poder do React.js com a velocidade e simplicidade do Next.js permite a criação de aplicações web modernas e escaláveis.
-    </td>
-    <td width="40%">
-      <img width="1920" alt="Slide 16_9 - 4" src="https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/f118715d-43b8-4c1f-bfb3-a8f54af6df10">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="30%">
-      <img width="820" alt="Facebook cover - 1" src="https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/6d9af713-5218-4c97-bcee-274e1810353c">
-    </td>
-    <td align="center">
-    
-[Python](https://www.python.org/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) | [Dart](https://dart.dev/) | [Java](https://dev.java/) | [Kotlin](https://kotlinlang.org/) | [Go](https://go.dev/) | [Lua](https://www.lua.org/) | [C](https://en.cppreference.com/w/c/language) | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | [Sass](https://sass-lang.com/) | [Tailwind CSS](https://tailwindcss.com/)
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
       
-[Visual Studio Code](https://code.visualstudio.com/) | [Figma](https://www.figma.com/) | [Canva](https://www.canva.com/) | [Selenium](https://www.selenium.dev/) | [Git](https://git-scm.com/) | [NPM](https://www.npmjs.com/)
-    </td>
-    <td width="30%">
-      <img width="820" alt="Facebook cover - 2" src="https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/a43ee3d0-75ed-4e6a-8ef2-f2f5d10abe9a">
-    </td>
+### About Me
+  </td>
   </tr>
-</table>
-
-<table width="100%">
   <tr>
-    <td width="30%">
-      <img width="820" alt="Facebook cover - 3" src="https://github.com/joao-marco-jf/joao-marco-jf/assets/55808163/0a72bbd3-a819-4cd9-b50f-21d6808eaff1">
-    </td>
-    <td align="center">
-
-[Instagram](https://www.instagram.com/joao.mjf/) | [Threads](https://www.threads.net/@joao.mjf)
+    <td>
+    </br>
+    
+My name is João Marcos. I am a developer of web applications, mobile apps, and games, with an eclectic approach to the types of projects I create. I am passionate about technology and innovation, always seeking to improve my skills to solve a wide variety of problems.
+    <br></br>
     </td>
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      
+### Work Philosophy
+  </td>
+  </tr>
+  <tr>
+    <td>
+    </br>
+      
+I am committed to writing clean, high-performance code. I value user experience, creating applications that are not only functional but also aesthetically pleasing and intuitive. My goal is to provide clients with a gratifying user experience.
+    <br></br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      
+### My Journey
+  </td>
+  </tr>
+  <tr>
+    <td>
+    </br>
+      
+My journey as a developer began early, driven by the desire to create my own games, a teenage dream I still cherish. I have always been curious about the world of technology, and upon diving into it, I was amazed by the possibilities, developing a deep and lasting passion.
+    <br></br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      
+### Academic Backgroun
+  </td>
+  </tr>
+  <tr>
+    <td>
+    </br>
+      
+I am currently studying Computer Science at the Federal University of Technology - Paraná (UTFPR). I am constantly seeking to deepen my knowledge to build better applications and develop new devices that drive technological innovation.
+    <br></br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      
+### Goals and Vision
+  </td>
+  </tr>
+  <tr>
+    <td>
+    </br>
+      
+Despite the inherent challenges of the profession, I remain passionate and always ready to face new challenges. My focus is to continue learning and evolving as a developer, significantly contributing to the advancement of technology and innovation.
+    <br></br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+#### Português - Brasil
+---
+
+<table>
+  <tr>
+    <td>
+      
+### Sobre Mim
+  </td>
+  </tr>
+  <tr>
+    <td>
+    </br>
+      
+Meu nome é João Marcos. Sou um desenvolvedor de aplicações web, mobile e jogos, com uma abordagem eclética em relação aos tipos de projetos que crio. Sou apaixonado por tecnologia e inovação, sempre buscando aprimorar minhas habilidades para resolver uma ampla variedade de problemas.
+    <br></br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      
+### Filosofia de Trabalho
+  </td>
+  </tr>
+  <tr>
+    <td>
+    </br>
+      
+Comprometo-me a escrever códigos limpos e de alto desempenho. Valorizo a experiência do usuário, criando aplicações que são não apenas funcionais, mas também esteticamente agradáveis e intuitivas. Meu objetivo é proporcionar aos clientes uma experiência de uso gratificante.
+    <br></br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      
+### Minha Jornada
+  </td>
+  </tr>
+  <tr>
+    <td>
+    </br>
+      
+Minha trajetória como desenvolvedor começou cedo, impulsionada pelo desejo de criar meus próprios jogos, um sonho adolescente que ainda nutro. Sempre tive curiosidade sobre o mundo da tecnologia, e ao mergulhar nele, fiquei maravilhado com as possibilidades, desenvolvendo uma paixão profunda e duradoura.
+    <br></br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      
+### Formação Acadêmica
+  </td>
+  </tr>
+  <tr>
+    <td>
+    </br>
+      
+Atualmente, estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR). Estou constantemente buscando aprofundar meus conhecimentos para construir aplicações melhores e desenvolver novos dispositivos que impulsionem a inovação tecnológica.
+    <br></br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      
+### Objetivos e Visão
+  </td>
+  </tr>
+  <tr>
+    <td>
+    </br>
+      
+Apesar das dificuldades inerentes à profissão, mantenho minha paixão e estou sempre pronto para enfrentar novos desafios. Meu foco é continuar aprendendo e evoluindo como desenvolvedor, contribuindo significativamente para o avanço da tecnologia e inovação.
+    <br></br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+ > :computer: Technologies: [Python](https://www.python.org/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) | [C](https://en.cppreference.com/w/c/language) | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | [Sass](https://sass-lang.com/) | [Tailwind CSS](https://tailwindcss.com/)
+
+> :wrench: Tools: [Visual Studio Code](https://code.visualstudio.com/) | [Figma](https://www.figma.com/) | [Selenium](https://www.selenium.dev/) | [Git](https://git-scm.com/) | [NPM](https://www.npmjs.com/)
+
+> :busts_in_silhouette: Social media: [Instagram](https://www.instagram.com/joao.mjf/) | [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-marcos-jensen-francisco/)
