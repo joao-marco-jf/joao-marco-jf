@@ -194,13 +194,11 @@ Apesar das dificuldades inerentes à profissão, mantenho minha paixão e estou 
 <thead>
 
 <tr>
-<th>
-            
-### Project
+<th align="left">
+Project
 </th>
-<th>
-            
-### Description
+<th align="left">
+Description
 </th>
 </tr>
 
