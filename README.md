@@ -183,3 +183,42 @@ Apesar das dificuldades inerentes à profissão, mantenho minha paixão e estou 
 > :wrench: Tools: [Visual Studio Code](https://code.visualstudio.com/) | [Figma](https://www.figma.com/) | [Selenium](https://www.selenium.dev/) | [Git](https://git-scm.com/) | [NPM](https://www.npmjs.com/)
 
 > :busts_in_silhouette: Social media: [Instagram](https://www.instagram.com/joao.mjf/) | [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-marcos-jensen-francisco/)
+
+---
+<br>
+
+## Participations
+
+<table>
+
+<thead>
+
+<tr>
+<th>
+            
+### Project
+</th>
+<th>
+            
+### Description
+</th>
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+<td>
+
+[ApodBrazil](https://github.com/ApodBrazil/apodbrazil)
+</td>
+<td>
+
+Apod Brazil is a project to disseminate astronomical photographs. My participation was in the development of the project's official website where images can be sent, evaluated and finally presented.
+</td>
+</tr>
+
+</tbody>
+
+</table>
